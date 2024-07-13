@@ -3,3 +3,6 @@
 ### Header
 
 ![Example Image](https://example.com/example-image.jpg)
+
+```javascript
+var myVar = "Hello, world!";
